@@ -83,6 +83,11 @@ footer {
 
 }  
 
+.img { 
+
+    border: 0; 
+}
+
 .webbut{
     background-color: #F4991A;
     font-style: italic;
