@@ -1,0 +1,149 @@
+
+body {
+    
+    background-color: #F9F7F7;
+    font-family: sans-serif;
+    color: #364F6B;
+   
+    font-size: 12px;
+    
+}
+
+h4 {
+    
+    font-size: 1.5em;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    
+}
+    
+h5 {
+    
+    font-size: 1.2em;
+    margin-top: 0px;
+    padding-top: 5px;
+    
+}
+
+a {
+    
+    font-family: monospace;
+    font-size: 15px;
+    padding: 20px;
+    font-weight: bold;
+    color: #DBE2EF;
+    text-decoration: none;
+    top: 400px;
+    
+}
+
+p {
+    
+    margin-top: 0;
+}
+
+h1 {
+    
+    color: #364F6B;
+    padding-left: 10%;
+
+}   
+
+header {
+    
+  
+    position: absolute;
+    top: 0;
+    right: 0;
+    left:0 ;
+    background-color: #393E46;
+    height: 100px;
+ 
+}
+
+hr {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+footer {
+    
+    position: relative;
+    top: 60px;
+    background-color: white;
+    padding: 30px;
+    text-align: center;
+    font-weight: lighter;
+    color: #303841;
+    font-size: 12px;
+    left:-10px;
+    width: 100%;
+  
+
+}  
+
+.webbut{
+    background-color: #F4991A;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.navlink{
+    color: black;
+    font-size: 20px;
+}
+
+.main {
+    
+    display: inline-block;
+    vertical-align: top;
+   
+  
+}
+
+.content {
+    
+    display: inline-block;
+    vertical-align: top;
+     padding-left: 10%;
+  
+}
+
+
+#sidebox{
+    
+    background-color: #70A3C4;
+    width: 200px;
+    text-align: center;
+    border: solid;
+}
+
+
+#logo {
+    
+     padding-top: 15px;
+     padding-left: 5%;
+    
+}
+
+
+#links {
+    
+    padding-top: 30px;
+}
+ 
+ 
+ #headline {
+    
+    padding-top: 110px;
+
+}
+
+
+#aboutme{
+    
+    font-size: 15px;
+    padding-left: 10px;
+    font-family: fantasy;
+}
