@@ -5,7 +5,7 @@
 <meta charset="utf-8">
 <title>Allen's Fansite</title>
 
-
+<link rel="stylesheet" type="text/css" href="styles.css">
 
 </head>
 
@@ -13,21 +13,13 @@
 <body>
 <header>
  
+ <?php include("navlinks.php"); ?>
 
- 
-<div> 
-<div style="float:left" id ="logo">
-    <img src="/images/logo.png" width="150" alt="logo of mountain" id = "logopic">   
-</div>
-    
-<div style="float: right" id="links">
-    <a href="index.html"><img src="/images/homeicon.png" width="20" alt ="home link"></a>  
-    <a href="external-links.html">Links</a>
-    <a href="cool-videos.html">Cool Videos</a>
-    <a href="about-me.html">About Me</a>
-</div> 
-</div> 
 </header>
+
+
+
+
 
 
 <!---Headline--->

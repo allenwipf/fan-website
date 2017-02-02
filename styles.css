@@ -16,6 +16,8 @@ h4 {
     margin-bottom: 0px;
     
 }
+
+
     
 h5 {
     
@@ -30,12 +32,24 @@ a {
     font-family: monospace;
     font-size: 15px;
     padding: 20px;
-    font-weight: bold;
     color: #DBE2EF;
     text-decoration: none;
     top: 400px;
+    font-weight: bold;
+    
     
 }
+
+.current {
+
+    color: #76D3FF;
+}
+
+a:active {
+    color: #E7EAA8;
+}
+
+
 
 p {
     
@@ -129,6 +143,7 @@ footer {
     
      padding-top: 15px;
      padding-left: 5%;
+
     
 }
 
@@ -136,6 +151,7 @@ footer {
 #links {
     
     padding-top: 30px;
+
 }
  
  
